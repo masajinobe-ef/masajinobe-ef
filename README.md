@@ -1,10 +1,5 @@
+<h1 align="center">I'm Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Back-end developer from Russia, Tyumen</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masajinobe-ef&label=Profile%20views&color=0e75b6&style=flat" alt="masajinobe-ef" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masajinobe-ef" alt="masajinobe-ef" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/priscilla_ef" target="blank"><img src="https://img.shields.io/twitter/follow/priscilla_ef?logo=twitter&style=for-the-badge" alt="priscilla_ef" /></a> </p>
 
 - 🔭 I’m currently working on [priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-website)
 
@@ -18,9 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priscilla_ef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priscilla_ef" height="30" width="40" /></a>
-<a href="https://instagram.com/masajinobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masajinobe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priscilla_ef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priscilla_ef" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masajinobe-ef&show_icons=true&locale=en&layout=compact" alt="masajinobe-ef" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masajinobe-ef&show_icons=true&locale=en" alt="masajinobe-ef" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masajinobe-ef&" alt="masajinobe-ef" /></p>
