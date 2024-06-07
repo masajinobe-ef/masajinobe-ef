@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **FastAPI, JavaScript, TypeScript, Linux, C/C++**
 
-- 👯 Collaborate with: **temnomor.ru**
+- 👯 Collaborate with: [temnomor.ru](temnomor.ru)
 
 - 👨‍💻 All of my projects are available at [https://github.com/masajinobe-ef?tab=repositories](https://github.com/masajinobe-ef?tab=repositories)
 
