@@ -17,6 +17,9 @@
 
 <h4 align="left">Programming Languages:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="c" width="40" height="40"/></code></a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a>
