@@ -79,6 +79,3 @@
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masajinobe-ef&show_icons=true&locale=en&layout=donut" alt="masajinobe-ef" /></p>
