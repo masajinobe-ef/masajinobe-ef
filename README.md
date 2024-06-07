@@ -34,7 +34,7 @@
 
 <h4 align="left">Frontend Development:</h4>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<code><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="40" height="40"/></code></a>
+<code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/></code></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="40" height="40"/></code></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
