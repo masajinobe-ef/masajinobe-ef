@@ -1,4 +1,4 @@
-<h1 align="center">I'm Kolesov Arseny (masajinobe)</h1>
+<h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Back-end developer from Russia, Tyumen</h3>
 
 - 🔭 I’m currently working on [priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-website)
