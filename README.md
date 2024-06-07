@@ -52,13 +52,13 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></code></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<code><img style="filter: invert(1);" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></code></a>
+<code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></code></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code></a>
 
 <h4 align="left">Dev:</h4>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<code><img style="filter: invert(1);" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code></a>
+<code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
