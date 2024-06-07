@@ -91,4 +91,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masajinobe-ef&show_icons=true&locale=en&layout=compact" alt="masajinobe-ef" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masajinobe-ef&show_icons=true&locale=en&layout=donut" alt="masajinobe-ef" /></p>
