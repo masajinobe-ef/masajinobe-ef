@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-website)
 
-- 🌱 I’m currently learning: **FastAPI, JavaScript, TypeScript, Linux, C/C++**
+- 🌱 I’m currently learning: **FastAPI, JavaScript, TypeScript, Rust, C/C++, Linux**
 
-- 👯 Collaborate with: [temnomor.ru](temnomor.ru)
+- 👯 Collaborate with: **temnomor.ru**
 
-- 👨‍💻 All of my projects are available at [https://github.com/masajinobe-ef?tab=repositories](https://github.com/masajinobe-ef?tab=repositories)
+- 👨‍💻 All of my projects are available at **https://github.com/masajinobe-ef?tab=repositories**
 
 - 📫 Email me: **priscilla.effects@gmail.com**
 
