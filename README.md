@@ -21,6 +21,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></code></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -29,8 +31,6 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code></a>
 <a href="https://golang.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></code></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></code></a>
 
 <h4 align="left">Frontend Development:</h4>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
