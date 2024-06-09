@@ -7,7 +7,7 @@
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 👨‍💻 All of my projects are available at **https://github.com/masajinobe-ef?tab=repositories**
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)**
 
 - 📫 Email me: **priscilla.effects@gmail.com**
 
