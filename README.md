@@ -79,3 +79,5 @@
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
+
+<figure><embed src="[https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true"></embed></figure>
