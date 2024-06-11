@@ -80,5 +80,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
 
-
-[![Ruby Zen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
