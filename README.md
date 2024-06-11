@@ -80,4 +80,5 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
 
+<br>
 [![trophy](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
