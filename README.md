@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-website)**
 
-- 🌱 I’m currently learning: **Next.js, React Native, FastAPI, TypeScript/JavaScript, Rust, C/C++, Linux**
+- 🌱 I’m currently learning: **NestJS, Next.js, React Native, FastAPI, TypeScript/JavaScript, Rust, C/C++, Linux**
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
@@ -33,6 +33,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></code></a>
 
 <h4 align="left">Frontend:</h4>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/></code></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></code></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
