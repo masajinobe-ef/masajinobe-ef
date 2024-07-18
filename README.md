@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-website)**
 
-- 🌱 I’m currently learning: **NestJS, Next.js, React Native, FastAPI, TypeScript/JavaScript, Rust, C/C++, Linux**
+- 🌱 I’m currently learning: **NestJS, Next.js, React JS/Native, FastAPI, TypeScript/JavaScript, Rust, C/C++, Linux**
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
