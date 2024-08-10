@@ -80,10 +80,6 @@
 <code><img style="background-color: #fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></code></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
-<a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></code></a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></code></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
@@ -97,5 +93,6 @@
 
 <h3 align="center">Time stats:</h3>
 
+<a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masajinobe-ef&hide=php)](https://github.com/masajinobe-ef) -->
