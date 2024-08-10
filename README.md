@@ -39,11 +39,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code></a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></code></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></code></a>
-
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -58,6 +55,8 @@
 <code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/></code></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="40" height="40"/></code></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code></a>
 
 <h4 align="left">Database:</h4>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
