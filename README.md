@@ -72,8 +72,6 @@
 <h4 align="left">Dev:</h4>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code></a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -90,6 +88,8 @@
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code></a>
 
 <h3 align="center">Time stats:</h3>
 <p align="center">
