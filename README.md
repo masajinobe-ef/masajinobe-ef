@@ -53,7 +53,7 @@
 
 <h4 align="left">Backend:</h4>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-<img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/></code></a>
+<code><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/></code></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/></code></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
