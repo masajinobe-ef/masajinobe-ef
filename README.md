@@ -91,8 +91,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
 
-<h3 align="center">Time stats:</h3>
+<h3 align="center">Time stats <a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>:</h3>
 
-<a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masajinobe-ef&hide=php)](https://github.com/masajinobe-ef) -->
