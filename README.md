@@ -1,7 +1,8 @@
 <h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
 
-I am engaged in software development, services and music equipment manufacturing at Priscilla FX and Temnonor. Some of my serious projects are hidden in private repositories.
+I am engaged in software development, services and music equipment manufacturing at Priscilla FX and Temnonor.</br>
+Some of my serious projects are hidden in private repositories.
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates
 
