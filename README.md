@@ -20,8 +20,6 @@ Some of my serious projects are hidden in private repositories.
 <h4 align="left">Programming Languages:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code></a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
