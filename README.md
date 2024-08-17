@@ -58,8 +58,6 @@ Some of my serious projects are hidden in private repositories.
 <code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/></code></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="40" height="40"/></code></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code></a>
 
 <h4 align="left">Database:</h4>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -74,6 +72,8 @@ Some of my serious projects are hidden in private repositories.
 <h4 align="left">Dev:</h4>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
