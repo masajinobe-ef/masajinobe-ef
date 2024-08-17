@@ -6,7 +6,7 @@ Some of my serious projects are hidden in private repositories.
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates
 
-- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript/JavaScript, Rust, C/C++, Linux**
+- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, C/C++, Linux**
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
