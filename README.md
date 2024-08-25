@@ -17,7 +17,7 @@ Some of my serious projects are hidden in private repositories.
 
 <h3 align="center">Technologies:</h3>
 
-<h4 align="left">Programming Languages:</h4>
+<h3 align="left">Programming Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -33,7 +33,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="64" height="64"/></code></a>
 
-<h4 align="left">Backend:</h4>
+<h3 align="left">Backend:</h3>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
 <code><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="64" height="64"/></code></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -43,7 +43,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="64" height="64"/></code></a>
 
-<h4 align="left">Frontend:</h4>
+<h3 align="left">Frontend:</h3>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="64" height="64"/></code></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></code>
@@ -57,7 +57,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="64" height="64"/></code></a>
 
-<h4 align="left">Database:</h4>
+<h3 align="left">Database:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="64" height="64"/></code></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/></code></a>
 
-<h4 align="left">Dev:</h4>
+<h3 align="left">Dev:</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/></code></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -81,7 +81,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64"/></code></a>
 
-<h4 align="left">Design:</h4>
+<h3 align="left">Design:</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="64" height="64"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -89,7 +89,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="64" height="64"/></code></a>
 
-<h4 align="left">Game dev:</h4>
+<h3 align="left">Game dev:</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="64" height="64"/></code></a>
 
