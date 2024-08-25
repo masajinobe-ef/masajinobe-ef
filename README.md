@@ -22,6 +22,8 @@ Some of my serious projects are hidden in private repositories.
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code></a>
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></code></a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></code></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -30,8 +32,6 @@ Some of my serious projects are hidden in private repositories.
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></code></a>
 
 <h4 align="left">Backend:</h4>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
