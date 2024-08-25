@@ -19,7 +19,7 @@ Some of my serious projects are hidden in private repositories.
 
 <h4 align="left">Programming Languages:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code></a>
 <a href="https://golang.org" target="_blank" rel="noreferrer">
