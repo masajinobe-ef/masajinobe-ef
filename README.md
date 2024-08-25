@@ -57,39 +57,39 @@ Some of my serious projects are hidden in private repositories.
 
 <h4 align="left">Database:</h4>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="64" height="64"/></code></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="64" height="64"/></code></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></code></a>
+<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="64" height="64"/></code></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/></code></a>
 
 <h4 align="left">Dev:</h4>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/></code></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="64" height="64"/></code></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/></code></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<code><img style="background-color: #fff" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code></a>
+<code><img style="background-color: #fff" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="64" height="64"/></code></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/></code></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code></a>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64"/></code></a>
 
 <h4 align="left">Design:</h4>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code></a> 
+<code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="64" height="64"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/></code></a>
+<code><img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop" width="64" height="64"/></code></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code></a>
+<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="64" height="64"/></code></a>
 
 <h4 align="left">Game dev:</h4>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></code></a>
+<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="64" height="64"/></code></a>
 
 <h3 align="center">Time stats:</h3>
 <p align="center">
