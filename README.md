@@ -38,6 +38,8 @@ Some of my serious projects are hidden in private repositories.
 <code><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="64" height="64"/></code></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="64" height="64"/></code></a>
+<a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
+<code><img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin" width="64" height="64"/></code></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="64" height="64"/></code></a>
 
