@@ -98,5 +98,7 @@ Some of my serious projects are hidden in private repositories.
     <a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
 </p>
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
+<p align="center">
+    ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
+</p>
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masajinobe-ef&hide=php)](https://github.com/masajinobe-ef) -->
