@@ -57,7 +57,7 @@ Some of my serious projects are hidden in private repositories.
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/></code></a>
 
-<h3 align="left">Security:</h3>
+<h3 align="left">Security and traffic analysis tools:</h3>
 <a href="https://reqable.com/en-US/" target="_blank" rel="noreferrer"> 
 <code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="64" height="64"/></code></a> 
 
