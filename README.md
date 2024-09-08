@@ -12,7 +12,7 @@ I mostly use Linux distributions like Arch and Fedora with using [bspwm](https:/
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)** and [Temnomor](https://github.com/Temnomor)
 
 - 📫 Email me: **priscilla.effects@gmail.com**
 
