@@ -8,7 +8,7 @@ I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
-- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, C/C++, Linux**
+- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go, Linux**
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
@@ -28,10 +28,6 @@ I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="64" height="64"/></code></a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="64" height="64"/></code></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64" height="64"/></code></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/></code></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="64" height="64"/></code></a>
 
