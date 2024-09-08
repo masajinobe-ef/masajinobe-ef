@@ -8,7 +8,7 @@ I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
-- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go, Linux**
+- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go**
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
@@ -30,6 +30,8 @@ I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="64" height="64"/></code></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="64" height="64"/></code></a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+<code><img src="https://www.lua.org/images/luaa.gif" alt="csharp" width="64" height="64"/></code></a>
 
 <h3 align="left">Backend:</h3>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
