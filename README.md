@@ -4,7 +4,9 @@
 I am engaged in software development, services and music equipment manufacturing at Priscilla FX and Temnonor.</br>
 Some of my serious projects are hidden in private repositories.
 
-- 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates
+I mostly use Linux distributions like Arch and Fedora with using [bspwm](https://github.com/masajinobe-ef/archlinux-bspwm) or [i3wm](https://github.com/masajinobe-ef/i3wm-air).
+
+- 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
 - 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, C/C++, Linux**
 
