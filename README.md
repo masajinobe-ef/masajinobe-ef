@@ -1,10 +1,10 @@
 <h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
 
-I am engaged in software/services development and music equipment manufacturing at [Priscilla FX](https://vk.com/priscilla_ef) and [Temnomor](https://temnomor.ru/).</br>
+I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX](https://vk.com/priscilla_ef)** and **[Temnomor](https://temnomor.ru/)**.</br>
 Some of my serious projects are hidden in private repositories.
 
-I mostly use Linux distributions like Arch and Fedora with using [bspwm](https://github.com/masajinobe-ef/archlinux-bspwm) or [i3wm](https://github.com/masajinobe-ef/i3wm-air).
+I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** or **[i3wm](https://github.com/masajinobe-ef/i3wm-air)**.
 
 - 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
@@ -12,7 +12,7 @@ I mostly use Linux distributions like Arch and Fedora with using [bspwm](https:/
 
 - 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)** and [Temnomor](https://github.com/Temnomor)
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)** and **[Temnomor](https://github.com/Temnomor)**
 
 - 📫 Email me: **priscilla.effects@gmail.com**
 
