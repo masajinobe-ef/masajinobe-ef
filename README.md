@@ -6,15 +6,15 @@ Some of my serious projects are hidden in private repositories.
 
 I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** or **[i3wm](https://github.com/masajinobe-ef/i3wm-air)**.
 
-- 🔭 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
+- I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
-- 🌱 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go**
+- I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go**
 
-- 👯 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
+- Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)** and **[Temnomor](https://github.com/Temnomor)**
+- All of my projects are available at **[Repositories](https://github.com/masajinobe-ef?tab=repositories)** and **[Temnomor](https://github.com/Temnomor)**
 
-- 📫 Email me: **priscilla.effects@gmail.com**
+- Email me: **priscilla.effects@gmail.com**
 
 
 <h3 align="center">Technologies:</h3>
