@@ -4,7 +4,7 @@
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX](https://vk.com/priscilla_ef)** and **[Temnomor](https://temnomor.ru/)**.
 Some of my serious projects are hidden in private repositories.
 
-I mostly use Linux distributions like Arch and Fedora with using **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** or **[i3wm](https://github.com/masajinobe-ef/i3wm-air)**.
+Mostly, i use Linux distributions like Arch and Fedora with using **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** or **[i3wm](https://github.com/masajinobe-ef/i3wm-air)**. I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
 - I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
 
