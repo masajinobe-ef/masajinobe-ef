@@ -16,7 +16,6 @@ Mostly, i use Linux distributions like Arch and Fedora with using **[bspwm](http
 
 - Email me: **priscilla.effects@gmail.com**
 
-
 <h3 align="center">Technologies:</h3>
 
 <h3 align="left">Languages:</h3>
@@ -59,7 +58,7 @@ Mostly, i use Linux distributions like Arch and Fedora with using **[bspwm](http
 
 <h3 align="left">Security and traffic analysis tools:</h3>
 <a href="https://reqable.com/en-US/" target="_blank" rel="noreferrer"> 
-<code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="64" height="64"/></code></a> 
+<code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="64" height="64"/></code></a>
 
 <h3 align="left">Database:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -102,6 +101,6 @@ Mostly, i use Linux distributions like Arch and Fedora with using **[bspwm](http
     <a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
 </p>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true\&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true&layout=compact)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masajinobe-ef&hide=php)](https://github.com/masajinobe-ef) -->
