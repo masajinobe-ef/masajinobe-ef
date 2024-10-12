@@ -22,7 +22,7 @@ I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinob
 
 - 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 📁 All of my projects are available at
+- 📁 All of my projects are available at:
   - **[My Profile](https://github.com/masajinobe-ef?tab=repositories)**
   - **[Priscilla IT](https://github.com/orgs/Priscilla-IT/repositories)**
   - **[Temnomor](https://github.com/Temnomor/repositories)**
