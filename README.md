@@ -3,7 +3,7 @@
 
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX/IT](https://github.com/orgs/Priscilla-IT)** and **[Temnomor](https://temnomor.ru/)**.
 
-Mostly, i use **Linux** distributions like **Arch** with using **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)**. 
+Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** .dotfiles. 
 
 I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
