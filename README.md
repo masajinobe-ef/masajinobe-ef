@@ -12,11 +12,20 @@ I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinob
   - temnomor_dates
   - temnomor_kanban
 
-- 📚 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go**
+- 📚 I’m currently learning:
+  - NestJS
+  - Next.js
+  - FastAPI
+  - TypeScript
+  - Rust
+  - Go
 
 - 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
 
-- 📁 All of my projects are available at **[My Profile](https://github.com/masajinobe-ef?tab=repositories)**, **[Priscilla IT](https://github.com/orgs/Priscilla-IT/repositories)** and **[Temnomor](https://github.com/Temnomor/repositories)**
+- 📁 All of my projects are available at
+  - **[My Profile](https://github.com/masajinobe-ef?tab=repositories)**
+  - **[Priscilla IT](https://github.com/orgs/Priscilla-IT/repositories)**
+  - **[Temnomor](https://github.com/Temnomor/repositories)**
 
 - 📧 Email me: **priscilla.effects@gmail.com**
 
