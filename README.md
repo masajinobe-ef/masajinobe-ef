@@ -7,7 +7,10 @@ Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](http
 
 I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
-- 🌐 I’m currently working on **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**, temnomor_dates, temnomor_kanban
+- 🌐 I’m currently working on
+  - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**
+  - temnomor_dates
+  - temnomor_kanban
 
 - 📚 I’m currently learning: **NestJS, Next.js, FastAPI, TypeScript, Rust, Go**
 
