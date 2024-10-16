@@ -7,6 +7,14 @@ Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](http
 
 I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
+- 📧 Email me: **priscilla.effects@gmail.com**
+- 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
+
+- 📁 All of my projects are available at:
+  - **[My Profile](https://github.com/masajinobe-ef?tab=repositories)**
+  - **[Priscilla IT](https://github.com/orgs/Priscilla-IT/repositories)**
+  - **[Temnomor](https://github.com/Temnomor/repositories)**
+
 - 🌐 I’m currently working on
   - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**
   - temnomor_dates
@@ -19,15 +27,6 @@ I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinob
   - TypeScript
   - Rust
   - Go
-
-- 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru/)**
-
-- 📁 All of my projects are available at:
-  - **[My Profile](https://github.com/masajinobe-ef?tab=repositories)**
-  - **[Priscilla IT](https://github.com/orgs/Priscilla-IT/repositories)**
-  - **[Temnomor](https://github.com/Temnomor/repositories)**
-
-- 📧 Email me: **priscilla.effects@gmail.com**
 
 <h3 align="center">Technologies:</h3>
 
