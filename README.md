@@ -16,17 +16,10 @@ I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinob
   - **[Temnomor](https://github.com/Temnomor/repositories)**
 
 - 🌐 I’m currently working on
-  - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-nextjs)**
-  - temnomor_dates
-  - temnomor_kanban
-
-- 📚 I’m currently learning:
-  - NestJS
-  - Next.js
-  - FastAPI
-  - TypeScript
-  - Rust
-  - Go
+  - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-web)**
+  - **[temnomor_dates](https://github.com/Temnomor)**
+  - **[temnomor_kanban](https://github.com/Temnomor)**
+  - **[temnomor_access (VPN)](https://github.com/Temnomor)**
 
 <h3 align="center">Technologies:</h3>
 
