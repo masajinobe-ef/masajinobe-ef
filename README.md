@@ -107,7 +107,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
             <img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" />
         </a>
     </p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true&layout=compact" alt="WakaTime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true" alt="WakaTime stats" />
     <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masajinobe-ef&hide=php)](https://github.com/masajinobe-ef) -->
 </div>
 
