@@ -11,7 +11,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 
 - 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru)**
 
-- 🌐 I’m currently working on
+- 🌐 I’m currently working on:
   - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-web)**
   - **[temnomor_dates](https://github.com/Temnomor)**
   - **[temnomor_kanban](https://github.com/Temnomor)**
