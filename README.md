@@ -21,7 +21,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 
 <h3 align="center">Technologies:</h3>
 
-<stron>Languages:</strong>
+<strong>Languages:</strong>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
