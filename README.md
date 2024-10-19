@@ -5,7 +5,7 @@ I am engaged in software/services development and music equipment manufacturing 
 
 Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** .dotfiles. 
 
-I prefer my **Nvim** configuration **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
+I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
 - 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru)**
 
