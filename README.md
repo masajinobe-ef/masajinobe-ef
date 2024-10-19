@@ -15,8 +15,8 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
   - **[temnomor_kanban](https://github.com/Temnomor)**
   - **[temnomor_access (VPN)](https://github.com/Temnomor)**
 
-- 📧 Email me: **priscilla.effects@gmail.com**
-- 📨 Telegram: **https://t.me/masaji_ef**
+📧 Email me: **priscilla.effects@gmail.com**
+📨 Telegram: **https://t.me/masaji_ef**
 
 <h3 align="center">Technologies:</h3>
 
