@@ -21,7 +21,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 
 <h3 align="center">Technologies:</h3>
 
-<strong>Languages:</strong>
+<div style="text-align: center;">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
 <code><img src="https://www.lua.org/images/luaa.gif" alt="lua" width="48" height="48"/></code></a>
 
-<strong>Backend:</strong>
+
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
 <code><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="48" height="48"/></code></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -45,7 +45,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <code><img style="background-color: #fff" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="flask" width="48" height="48"/></code></a>
 
-<strong>Frontend:</strong>
+
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48"/></code></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></code>
@@ -59,7 +59,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></code></a>
 
-<strong>Database:</strong>
+
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/></code></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">
@@ -69,7 +69,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/></code></a>
 
-<strong>Dev:</strong>
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/></code></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -83,11 +83,11 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/></code></a>
 
-<strong>Traffic analysis tools:</strong>
+
 <a href="https://reqable.com/en-US/" target="_blank" rel="noreferrer"> 
 <code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="48" height="48"/></code></a>
 
-<strong>Design:</strong>
+
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="48" height="48"/></code></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -95,9 +95,10 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="48" height="48"/></code></a>
 
-<strong>Game dev:</strong>
+
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/></code></a>
+</div>
 
 <h3 align="center">Time stats:</h3>
 <p align="center">
