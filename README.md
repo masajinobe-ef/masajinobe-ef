@@ -1,5 +1,7 @@
 <h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
+<h3 align="center">📨 Telegram: **https://t.me/masaji_ef**</h3>
+<h3 align="center">📧 Email me: **priscilla.effects@gmail.com**</h3>
 
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX / IT](https://github.com/orgs/Priscilla-IT)** and **[Temnomor](https://temnomor.ru/)**.
 
@@ -15,9 +17,6 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
   - **[temnomor_kanban](https://github.com/Temnomor)**
   - **[temnomor_access (VPN)](https://github.com/Temnomor)**
 
-📧 Email me: **priscilla.effects@gmail.com**
-
-📨 Telegram: **https://t.me/masaji_ef**
 
 <h3 align="center">Technologies:</h3>
 
