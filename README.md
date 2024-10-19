@@ -9,7 +9,7 @@ Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](http
 
 I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
-- 🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru)**
+🤝 Collaborate with: **[temnomor.ru](https://temnomor.ru)**
 
 - 🌐 I’m currently working on:
   - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-web)**
