@@ -20,10 +20,6 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <h4 align="center">📧 Email me: priscilla.effects@gmail.com</h4>
 
 <h3 align="center">Technologies:</h3>
-<h3 align="center">Time stats:</h3>
-<p align="center">
-    <a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -102,6 +98,11 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <h3 align="left">Game dev:</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="64" height="64"/></code></a>
+
+<h3 align="center">Time stats:</h3>
+<p align="center">
+    <a href="https://wakatime.com/@22ec0aad-94d6-460b-ac0b-2803e6ec5d6d"><img src="https://wakatime.com/badge/user/22ec0aad-94d6-460b-ac0b-2803e6ec5d6d.svg" alt="Total time coded since Jun 11 2024" /></a>
+</p>
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masajinobe&show_icons=true&layout=compact)
 
