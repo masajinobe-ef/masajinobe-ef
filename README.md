@@ -59,10 +59,6 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/></code></a>
 
-<h3 align="left">Security and traffic analysis tools:</h3>
-<a href="https://reqable.com/en-US/" target="_blank" rel="noreferrer"> 
-<code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="64" height="64"/></code></a>
-
 <h3 align="left">Database:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="64" height="64"/></code></a>
@@ -86,6 +82,10 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/></code></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64"/></code></a>
+
+<h3 align="left">Security and traffic analysis tools:</h3>
+<a href="https://reqable.com/en-US/" target="_blank" rel="noreferrer"> 
+<code><img src="https://avatars.githubusercontent.com/u/119648815" alt="Reqable" width="64" height="64"/></code></a>
 
 <h3 align="left">Design:</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
