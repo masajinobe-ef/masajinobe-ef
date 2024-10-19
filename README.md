@@ -1,7 +1,7 @@
 <h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
 <h3 align="center">📨 Telegram: https://t.me/masaji_ef</h3>
-<h4 align="center">📧 Email me: mailto:priscilla.effects@gmail.com</h4>
+<h4 align="center">📧 Email me: priscilla.effects@gmail.com</h4>
 
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX / IT](https://github.com/orgs/Priscilla-IT)** and **[Temnomor](https://temnomor.ru/)**.
 
