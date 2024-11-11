@@ -2,7 +2,6 @@
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
 <h3 align="center">📨 Telegram: https://t.me/masaji_ef</h3>
 
-
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla Fx](https://github.com/orgs/priscilla-it)** and **[Temnomor](https://github.com/orgs/Temnomor)**.
 
 Mostly, i use **Linux** distributions like **Arch** with using my **[bspwm](https://github.com/masajinobe-ef/archlinux-bspwm)** .dotfiles. 
@@ -15,7 +14,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
   - **[priscillafx.ru](https://github.com/masajinobe-ef/priscillafx-web)**
   - **[temnomor_access (VPN)](https://github.com/Temnomor)**
   - **[temnomor_dates](https://github.com/Temnomor)**
-  - **[temnomor_kanban](https://github.com/Temnomor)**
+  - **[priscilla_kanban](https://github.com/Temnomor)**
 
 <h4 align="center">📧 Email me: priscilla.effects@gmail.com</h4>
 
@@ -37,7 +36,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-<code><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="48" height="48"/></code></a>
+<code><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="48" height="48"/></code></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <code><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="48" height="48"/></code></a>
 <a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
