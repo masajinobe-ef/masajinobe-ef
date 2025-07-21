@@ -16,6 +16,7 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 
 <h4 align="center">📧 Email me: priscilla.effects@gmail.com</h4>
 
+<!--
 <h3 align="center">Technologies:</h3>
 
 <div style="text-align: center;">
@@ -96,6 +97,8 @@ I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/></code></a>
 </div>
+
+-->
 
 
 <h3 align="center">Time stats:</h3>
