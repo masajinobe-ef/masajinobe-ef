@@ -5,7 +5,9 @@
 
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla Fx](https://github.com/orgs/priscilla-it)** and **[Temnomor](https://github.com/orgs/Temnomor)**.
 
+<!--
 Mostly, i use Linux with using my **[.dotfiles](https://github.com/masajinobe-ef/.dotfiles)**. 
+-->
 
 I prefer my launch point for **Neovim** configuration: **[modular.nvim](https://github.com/masajinobe-ef/modular.nvim)**.
 
